@@ -1,0 +1,27 @@
+body {
+    color: ivory;
+    background-color: black;
+
+}
+
+
+.Myfont{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+    .dropdown-toggle {
+         display: inline-block;}
+
+/* Ensure the toggle button is always displayed */
+.navbar-toggler {
+    display: block !important;
+}
+
+/* Optional: Hide the collapse content by default */
+.navbar-collapse {
+    display: none !important;
+}
